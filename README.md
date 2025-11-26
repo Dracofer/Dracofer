@@ -26,12 +26,6 @@
 - ⚡ Fora programar, gosto de correr em competições, fazer academia e jogar
 
 <br>
-<div class="init">
-  <a href="https://github.com/Dracofer">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dracofer&show_icons=true&bg_color=000000,FF0000&text_color=white&title_color=FF0000&icon_color=FF0000">
-    <img height="170em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dracofer&layout=compact&langs_count=6&bg_color=000000,FF0000&text_color=white&title_color=FF0000&icon_color=FF0000">
-  </a>
-</div>
 
 <br/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,100:FF0000&reversal=false&textBg=false&descAlign=52&descAlignY=52&section=footer"/>

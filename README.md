@@ -57,7 +57,7 @@
 </div>
 
 <br/><br/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,100:FF0000&reversal=false&textBg=false&descAlign=52&descAlignY=52&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:35034d,100:FF0000&reversal=false&textBg=false&descAlign=52&descAlignY=52&section=footer"/>
 <br/>
 
 <h2 align="center" style="color: FF0000;">🛠️ Linguagens e Ferramentas 🛠️</h2>

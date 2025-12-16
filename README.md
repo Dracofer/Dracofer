@@ -32,10 +32,6 @@
      <img height="170em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dracofer&layout=compact&langs_count=6&bg_color=DEG,0f0119,FF0000,200a1f&text_color=fbe2ff&title_color=ffffff&icon_color=f4c6ff">
    </a>
  </div>
- 
-<br/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,100:FF0000&reversal=false&textBg=false&descAlign=52&descAlignY=52&section=footer"/>
-<br/>
 
 <h2 align="center">🛠️Languages, Frameworks and Tools🛠️</h2>
 <br/>
@@ -56,10 +52,6 @@
   <img align="center" alt="JSQLite" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
 </div>
 
-<br/><br/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,100:FF0000&reversal=false&textBg=false&descAlign=52&descAlignY=52&section=footer"/>
-<br/>
-
 <h2 align="center" style="color: FF0000;">🛠️ Linguagens e Ferramentas 🛠️</h2>
 <br/>
 <div align="center" style="display: inline_block">
@@ -77,4 +69,4 @@
 
 <br/><br/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,100:FF0000&reversal=false&textBg=false&descAlign=52&descAlignY=52&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,100:FF0000&reversal=false&textBg=false&descAlign=52&descAlignY=52&section=footer"/>
